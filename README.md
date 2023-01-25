@@ -1,5 +1,5 @@
 ```
-                                                  GIT ASSIGNMENT 
+                                              GIT ASSIGNMENT 
 ```
 <img width="771" alt="Screenshot 2023-01-25 at 12 14 39 PM" src="https://user-images.githubusercontent.com/122472996/214503335-85cfc574-e8e7-4662-885f-854f7b87f8c8.png">
 
